@@ -1,6 +1,6 @@
-# Post-contenido — Unidad 1: Fundamentos de Patrones de Diseño y Buenas Prácticas
-
-**Patrones de Diseño de Software · Sexto Semestre**  
+# Post-contenido - Unidad 1: Fundamentos de Patrones de Diseño y Buenas Prácticas
+# Link del repositorio: https://github.com/DavidRincon12/rincon-post1-u1
+**Patrones de Diseño de Software**  
 **Estudiante:** David Rincón  
 **Repositorio:** `rincon-post1-u1`
 
